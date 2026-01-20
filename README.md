@@ -60,7 +60,7 @@ LoRA was used to significantly reduce the number of trainable parameters while m
 
 ### Confusion Matrix (Test Set)
 
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ## Hugging Face Model
 
