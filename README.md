@@ -64,9 +64,7 @@ LoRA was used to significantly reduce the number of trainable parameters while m
 
 ## Hugging Face Model
 
-The fine-tuned model is available on Hugging Face Hub:
-
-**[Model on Hugging Face](https://huggingface.co/agataskrzyniarz/intent-detection-chatbot)**
+The fine-tuned model is available on Hugging Face Hub: **[https://huggingface.co/agataskrzyniarz/intent-detection-chatbot](https://huggingface.co/agataskrzyniarz/intent-detection-chatbot)**
 
 ## Inference
 
@@ -111,6 +109,3 @@ The full fine-tuning process is documented in the Google Colab notebook, includi
 ```
 pip install -r requirements.txt
 ```
-
-```bash
-python inference.py
